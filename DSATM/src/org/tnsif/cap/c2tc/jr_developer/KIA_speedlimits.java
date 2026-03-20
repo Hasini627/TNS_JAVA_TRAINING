@@ -6,11 +6,14 @@ public class KIA_speedlimits {
 		System.out.println("All Kia have speedlimit");
 	}
 	
-public static void main(String[] args) {
-		
-		KIA_speedlimits obj=new KIA_speedlimits();
-		obj.disp_Speeds();
-
-}
+  public static void main(String[] args) {
+	  
+	  
+	  KIA_speedlimits ob1=new KIA_speedlimits();
+	  ob1.disp_Speeds();
+	  
+		  KIA_Airrbags ob2=new KIA_Airrbags();
+		  ob2.disp_AirBags();
+	  }
 
 }
