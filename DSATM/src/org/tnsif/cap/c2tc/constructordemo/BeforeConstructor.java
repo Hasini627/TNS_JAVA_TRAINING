@@ -1,4 +1,4 @@
-package constructordemo;
+package org.tnsif.cap.c2tc.constructordemo;
 
 class Myclass
 {
